@@ -1,0 +1,111 @@
+body {
+    color: #40514E;
+    margin-top: 0;
+    text-align: center;
+    font-family: 'merriweather',serif ;
+}
+h1 {color: #66BFBF;
+    margin:50px,auto,0px,auto;
+    font-size: 5.625rem;
+    font-family: 'Sacramento', cursive;
+}
+h2{color: #66BFBF;
+    font-family: 'Montserrat',sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+h3{color: #11999E;
+    font-family: 'Montserrat',sans-serif;
+}
+p{
+    line-height: 2;
+}
+hr{
+    border:dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto ;
+}
+.top-container { 
+    background-color:#E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+.middle-container{
+    margin: 100px 0;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0px 20px ;
+}
+a{
+    color:#11999E;
+    font-family: 'Montserrat',sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
+}
+.copyright{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0px;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+.top-cloud {
+    position: absolute;
+    right: 250px;
+    top: 50px;
+
+}
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+
+}
+.giphy-img{
+width: 25%;
+float: left;
+}
+.redchilly-img{
+width: 25%;
+float: right;
+}
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.btn {
+    font-size:20px;
+    font-family: 'merriweather',serif ;
+    width:154px;
+    height:40px;
+    border-width:1px;
+    color:#fff;
+    border-color:#18ab29;
+    font-weight:bold;
+    border-top-left-radius:8px;
+    border-top-right-radius:8px;
+    border-bottom-left-radius:8px;
+    border-bottom-right-radius:8px;
+    box-shadow: 1px 1px 0px 1px #fff;
+    text-shadow: 1px 1px 0px #2f6627;
+    background:rgba(17, 205, 212, 1);
+  }
+  
+  .btn:hover {
+    background: rgba(43, 196, 173, 1)
+  }
+  
